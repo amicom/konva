@@ -10,7 +10,7 @@ export default {
     {
       file: 'konva.js',
       name: 'Konva',
-      format: 'umd',
+      format: 'es',
       sourcemap: false,
       freeze: false
     }
